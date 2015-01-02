@@ -1,6 +1,6 @@
 name             'my-vagrant-development'
 maintainer       'Marcel Becker'
-maintainer_email 'marcelbecker@derecho.io'
+maintainer_email 'marcelbecker@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures my-vagrant-development'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

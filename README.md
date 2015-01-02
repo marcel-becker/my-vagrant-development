@@ -10,4 +10,4 @@
 
 # Author
 
-Author:: Marcel Becker (<marcelbecker@derecho.io>)
+Author:: Marcel Becker (<marcelbecker@gmail.com>)
