@@ -92,8 +92,6 @@ apt_repository "x2go-repo" do
   keyserver "keyserver.ubuntu.com"
 end
 
-
-
 # apt_repository "java" do
 #   uri "http://ppa.launchpad.net/webupd8team/java/ubuntu"
 #   distribution "precise"
@@ -101,8 +99,6 @@ end
 #   key "EEA14866"
 #   keyserver "keyserver.ubuntu.com"
 # end
-
-
 
 
 #execute "Accept_Oracle_License" do
@@ -114,7 +110,6 @@ end
 #command "add-apt-repository  -y ppa:webupd8team/java && apt-get -y update"
 #action :run
 #end
-
 
 #package "emacs24"
 #package "emacs24-el"
